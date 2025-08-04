@@ -19,7 +19,7 @@ That 1.7 seconds, the time it takes for your money to vanish into thin air.
 
 Exchanger may implement anti-bot system, need you to check regularly anytime.
 
-#### Exchanger may manipulate market
+### Exchanger may manipulate market
 
 Exchanger might manipulate realtime data to you, leading to misleading  
 signals or fake trends.
