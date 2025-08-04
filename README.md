@@ -2,7 +2,7 @@
 
 ## IN DEVELOPMENT
 
-## What you must know why use bot for trading may fail to gain profit
+## What you must know why using bot for trading may fail to gain profit
 
 ### LLM is not reliable
 
